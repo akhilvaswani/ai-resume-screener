@@ -1,10 +1,10 @@
 # AI Resume Screener
 
-This project is an AI-powered resume screening tool that matches resumes against job descriptions using OpenAI's text embeddings. Instead of relying on basic keyword matching (which misses a lot of qualified candidates), it converts both the resume and job description into vector embeddings and calculates how similar they are semantically. So if a job asks for "cloud infrastructure experience" and a resume mentions "deployed applications on AWS EC2 and managed VPC networking," the system understands those are related even though the exact words don't match.
+Resume screening tool that matches resumes against job descriptions using OpenAI's text embeddings. Instead of relying on basic keyword matching (which misses a lot of qualified candidates), it converts both the resume and job description into vector embeddings and calculates how similar they are semantically. So if a job asks for "cloud infrastructure experience" and a resume mentions "deployed applications on AWS EC2 and managed VPC networking," the system understands those are related even though the exact words don't match.
 
 I also built in skill extraction, a scoring breakdown that explains why each resume scored the way it did, and a batch processing mode for screening multiple resumes against the same job posting.
 
-## What's in This Repo
+## Files
 
 - `screener.py` - Core screening engine with embedding-based matching and skill extraction
 - `embeddings.py` - OpenAI embedding generation with caching and rate limiting
@@ -81,7 +81,7 @@ skills = extractor.extract(resume_text)
 
 ### Step 4 - The Screening Pipeline
 
-The main `ResumeScreener` class in `screener.py` combines embedding similarity with skill matching to produce a comprehensive score. Here's how it works:
+The main `ResumeScreener` class in `screener.py` combines embedding similarity with skill matching to produce a final score. Here's how it works:
 
 1. **Parse the inputs** - Clean and preprocess both the resume and job description
 2. **Extract skills** - Pull skills from both documents and categorize them
