@@ -1,0 +1,36 @@
+JAMIE RODRIGUEZ
+Software Engineer
+jamie.rodriguez@email.com | Austin, TX | github.com/jamier
+
+SUMMARY
+Full-stack software engineer with 4 years of experience building web applications and APIs. Focused on clean code, test-driven development, and delivering features that users actually want.
+
+EXPERIENCE
+
+Software Engineer | WebApp Inc | 2022 - Present
+- Built and maintained a React frontend serving 500K monthly users
+- Developed RESTful APIs using Node.js and Express with PostgreSQL
+- Implemented authentication and authorization using JWT and OAuth2
+- Wrote comprehensive unit and integration tests (90%+ coverage)
+- Collaborated with design team to implement responsive UI components
+- Optimized database queries reducing page load time by 45%
+- Participated in code reviews and mentored 2 junior developers
+
+Junior Developer | CodeShop | 2020 - 2022
+- Developed features for an e-commerce platform using Django and Python
+- Built interactive dashboard components with React and Chart.js
+- Wrote Python scripts for data migration and ETL processes
+- Set up Docker containers for local development environments
+- Managed deployment to Heroku and later migrated to AWS
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, SQL, HTML, CSS
+Frontend: React, Next.js, Tailwind CSS, Redux
+Backend: Node.js, Express, Django, Flask
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Docker, Jira, VS Code, Postman
+Testing: Jest, Pytest, Cypress
+Cloud: AWS (basic), Heroku
+
+EDUCATION
+B.S. Computer Science | University of Texas at Austin | 2020

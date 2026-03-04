@@ -1,0 +1,35 @@
+Site Reliability Engineer (SRE)
+
+About the Role
+We're looking for a Site Reliability Engineer to help us build and maintain the infrastructure that powers our platform. You'll work closely with engineering teams to ensure our systems are reliable, scalable, and performant. This role combines software engineering with systems administration to solve complex operational challenges.
+
+Responsibilities
+- Design, build, and maintain scalable cloud infrastructure on AWS
+- Implement and manage Kubernetes clusters for container orchestration
+- Build and maintain CI/CD pipelines for automated deployment
+- Set up monitoring, alerting, and observability systems
+- Respond to incidents and conduct post-mortem analysis
+- Automate operational tasks using Python, Go, or Bash
+- Manage infrastructure as code using Terraform or CloudFormation
+- Optimize system performance and reduce costs
+- Collaborate with development teams on architecture decisions
+- Maintain documentation and runbooks
+
+Requirements
+- 3+ years of experience in a DevOps, SRE, or infrastructure role
+- Strong experience with AWS (EC2, EKS, S3, RDS, Lambda, IAM, VPC)
+- Hands-on experience with Kubernetes and Docker
+- Proficiency in at least one programming language (Python, Go, or Bash)
+- Experience with Infrastructure as Code (Terraform preferred)
+- Experience with CI/CD tools (GitHub Actions, Jenkins, or similar)
+- Strong understanding of networking concepts (DNS, load balancing, VPN)
+- Experience with monitoring tools (Prometheus, Grafana, Datadog, or similar)
+- Strong problem-solving skills and ability to work under pressure
+- Excellent communication and collaboration skills
+
+Nice to Have
+- AWS certifications (Solutions Architect, DevOps Engineer)
+- CKA or CKAD certification
+- Experience with service mesh (Istio, Linkerd)
+- Experience with GitOps (ArgoCD, Flux)
+- Background in Linux systems administration

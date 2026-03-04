@@ -1,0 +1,33 @@
+MORGAN TAYLOR
+Data Analyst
+morgan.taylor@email.com | Chicago, IL
+
+SUMMARY
+Data analyst with 3 years of experience turning raw data into actionable business insights. Skilled in SQL, Python, and data visualization tools.
+
+EXPERIENCE
+
+Data Analyst | RetailCo | 2022 - Present
+- Analyzed sales data across 200+ retail locations to identify trends and anomalies
+- Built interactive dashboards in Tableau for executive leadership team
+- Wrote complex SQL queries to extract and transform data from data warehouse
+- Created Python scripts using Pandas for automated weekly reporting
+- Conducted A/B testing analysis for marketing campaigns
+- Presented findings to stakeholders and recommended data-driven strategies
+
+Junior Data Analyst | MarketingPro | 2021 - 2022
+- Cleaned and preprocessed large datasets using Python and Excel
+- Generated monthly performance reports using SQL and Power BI
+- Assisted in building customer segmentation models
+- Maintained data quality standards and documentation
+
+SKILLS
+Languages: SQL, Python, R
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn
+Visualization: Tableau, Power BI, Excel
+Databases: MySQL, PostgreSQL, Snowflake
+Statistics: Hypothesis testing, regression analysis, A/B testing
+Other: SPSS, Google Analytics, Jupyter Notebooks
+
+EDUCATION
+B.S. Statistics | University of Illinois at Chicago | 2021

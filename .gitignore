@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.egg-info/
+dist/
+build/
+embeddings_cache.db
+reports/
+results/
+.DS_Store

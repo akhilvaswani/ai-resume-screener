@@ -1,0 +1,43 @@
+ALEX CHEN
+Cloud Infrastructure Engineer
+alex.chen@email.com | Seattle, WA | github.com/alexchen
+
+SUMMARY
+Cloud infrastructure engineer with 5+ years of experience designing, deploying, and managing scalable systems on AWS and Azure. Strong background in automation, containerization, and infrastructure as code. Passionate about building reliable, cost-effective cloud environments.
+
+EXPERIENCE
+
+Cloud Engineer | TechCorp Solutions | 2021 - Present
+- Architected and managed multi-region AWS infrastructure serving 2M+ daily active users
+- Implemented Infrastructure as Code using Terraform, reducing deployment time by 70%
+- Designed and maintained Kubernetes clusters (EKS) running 200+ microservices
+- Built CI/CD pipelines with GitHub Actions for automated testing and deployment
+- Set up comprehensive monitoring with Prometheus, Grafana, and CloudWatch
+- Led migration of 15 legacy applications from on-premises to AWS, saving $400K annually
+- Managed VPC networking, security groups, and IAM policies across 12 AWS accounts
+- Implemented disaster recovery procedures with RTO of 15 minutes
+
+Junior Cloud Engineer | StartupXYZ | 2019 - 2021
+- Deployed and managed EC2 instances, S3 buckets, RDS databases, and Lambda functions
+- Automated server provisioning with Ansible playbooks
+- Configured Nginx load balancers and managed SSL certificates
+- Monitored system health using Datadog and PagerDuty
+- Wrote Python scripts for automating routine infrastructure tasks
+
+SKILLS
+Cloud: AWS (EC2, S3, Lambda, EKS, RDS, CloudFormation, IAM, VPC, Route 53), Azure
+Containers: Docker, Kubernetes, ECS, Helm
+IaC: Terraform, CloudFormation, Ansible
+CI/CD: GitHub Actions, Jenkins, ArgoCD
+Monitoring: Prometheus, Grafana, CloudWatch, Datadog
+Languages: Python, Bash, Go, YAML
+Databases: PostgreSQL, Redis, DynamoDB
+Networking: VPN, DNS, Load Balancing, CDN
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Certified Kubernetes Administrator (CKA)
+- Terraform Associate
+
+EDUCATION
+B.S. Computer Science | University of Washington | 2019
